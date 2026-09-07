@@ -1,0 +1,100 @@
+:root {
+    --ink: #111;
+    --muted: #777;
+    --line: #e5e5e5;
+    --chip-bg: #fafafa;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    color: var(--ink);
+    background: #fff;
+    line-height: 1.8;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    width: min(620px, 90vw);
+    padding: 48px 0;
+}
+
+.tag {
+    font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+    font-size: 0.8rem;
+    color: var(--muted);
+}
+
+h1 {
+    font-size: 2.4rem;
+    font-weight: 650;
+    margin-top: 6px;
+    letter-spacing: 0.5px;
+}
+
+.role {
+    color: var(--muted);
+    margin-top: 2px;
+}
+
+.bio {
+    margin: 26px 0 34px;
+    color: #333;
+}
+
+/* tech stack chips */
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
+.tech-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--chip-bg);
+    padding: 5px 14px 5px 10px;
+    font-size: 0.85rem;
+    color: #333;
+    transition: border-color 0.15s;
+}
+
+.tech-tag:hover {
+    border-color: #aaa;
+}
+
+.tech-icon {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+footer {
+    font-size: 0.95rem;
+}
+
+a {
+    color: var(--ink);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.sep {
+    color: var(--muted);
+    margin: 0 8px;
+}
