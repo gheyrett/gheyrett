@@ -14,4 +14,4 @@
 ## 📬 Find me
 
 - 🌐 [gcoder.net](https://gcoder.net)
-- ✉️ [git@gcoder.net](mailto:git@gcoder.net)
+- ✉️ [hello@gcoder.net](mailto:hello@gcoder.net)
