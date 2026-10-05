@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gcoder
+# 👋 Hi, I'm Gheyret
 
 > Go enthusiast & learner — tinkering with small tools, poking at the frontend now and then.
 > I like things that are simple, working, and low-maintenance.
@@ -13,5 +13,5 @@
 
 ## 📬 Find me
 
-- 🌐 [gcoder.net](https://gcoder.net)
-- ✉️ [hello@gcoder.net](mailto:hello@gcoder.net)
+- 🌐 [gcoder.net](https://www.gheyret.com)
+- ✉️ [hello@gcoder.net](mailto:hi@gheyret.com)
