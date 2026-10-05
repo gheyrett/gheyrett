@@ -13,5 +13,4 @@
 
 ## 📬 Find me
 
-- 🌐 [gcoder.net](https://www.gheyret.com)
-- ✉️ [hello@gcoder.net](mailto:hi@gheyret.com)
+- ✉️ [email by my](mailto:hi@gheyret.com)
